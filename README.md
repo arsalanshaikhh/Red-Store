@@ -2,7 +2,7 @@
 
 # Red-Store (E-commerce website)
 
-Omnifood is a restaurant website where customers can searching for food in your general area, such as your location, cuisine type, and restaurant name.
+Redstore.com is an online shopping destination for children, men and women's luxury clothing, bags, shoes, and accessories, it is an individual website build my me from scratch.
 
 This is the project I have done personally apart from Masai School in the duration of 1 day. I have cloned the front end of the website.
 
@@ -20,7 +20,8 @@ This is the project I have done personally apart from Masai School in the durati
 
 ## Features:
 
-Restaurant website where you can order food as per your location, type of food and restorent name. you also can take Healthy Food plans for month. We have three defrent plans for the duration ofthe month. i have cloned the front-end of the website.
+E-commerce website where you can order the luxury clothing for children, men and women's, bags, shoes, and accessories.
+i have made the front end of the website only.
 
 <h1>Snapshots of our project</h1>
 
