@@ -26,35 +26,27 @@ Restaurant website where you can order food as per your location, type of food a
 
 1. This is the Landing page of Omni-Food
 
-![ScreenShot Tool -20220928070253](https://user-images.githubusercontent.com/88669777/192668788-f3f6d9c7-bf73-492b-93cb-c6ed1813e8b1.png)
+![ScreenShot Tool -20220928072536](https://user-images.githubusercontent.com/88669777/192670638-83b0d5e0-b7eb-45a9-b0b3-ce01e170fd3a.png)
 
-2. Fast and not Fast food section
 
-![ScreenShot Tool -20220928070433](https://user-images.githubusercontent.com/88669777/192668930-0aa02e2a-4e34-4c80-9d5d-71733dda46d6.png)
+2. Future Product Section
 
-![ScreenShot Tool -20220928070516](https://user-images.githubusercontent.com/88669777/192668947-40066209-0a56-415b-a9d9-470d944e60ae.png)
+![ScreenShot Tool -20220928072707](https://user-images.githubusercontent.com/88669777/192670687-306ac3ae-910e-48a0-ac42-ac685c51211b.png)
 
-3. How to download mobile app section
+3. Latest Product Section
 
-![ScreenShot Tool -20220928070538](https://user-images.githubusercontent.com/88669777/192669015-f589141a-63eb-4c61-b2e9-c0e0732d4a21.png)
+![ScreenShot Tool -20220928072819](https://user-images.githubusercontent.com/88669777/192670747-cea8519f-db80-4ef1-9761-1f2bd92a1b84.png)
 
-4. Current Cities in section
+4. Offer on Product Section
 
-![ScreenShot Tool -20220928070657](https://user-images.githubusercontent.com/88669777/192669094-666b8638-6b40-492f-adb6-ac6437d649ef.png)
+![ScreenShot Tool -20220928072853](https://user-images.githubusercontent.com/88669777/192670821-3fa1acaa-daaf-46c1-bc58-41e1a0843da2.png)
 
-5. Customers Feedback
+5. Customer Feedback Section
 
-![ScreenShot Tool -20220928070718](https://user-images.githubusercontent.com/88669777/192669186-04475b69-cd07-42b3-969f-572c02477f86.png)
+![ScreenShot Tool -20220928072945](https://user-images.githubusercontent.com/88669777/192670869-4cd4f0e8-6810-4447-9c2f-901e6840275d.png)
 
-6. Healthy Plans
 
-![ScreenShot Tool -20220928070733](https://user-images.githubusercontent.com/88669777/192669239-584bf648-8b36-4364-a8c6-a8fdeb02d5ac.png)
-
-7. Submit Feedback section and Footer
-
-![ScreenShot Tool -20220928070756](https://user-images.githubusercontent.com/88669777/192669307-0cf959f1-dbe7-447c-b332-38f7ec68f742.png)
-
-8. Demo
+6. Demo
 
 ![2022-01-27 01-01-14](https://user-images.githubusercontent.com/88669777/151234263-a283de5d-4220-45bc-9568-14bf63638f6a.gif)
 
