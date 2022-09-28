@@ -1,6 +1,6 @@
 
 
-# Food Delivery Website (Omni Food)
+# Red-Store (E-commerce website)
 
 Omnifood is a restaurant website where customers can searching for food in your general area, such as your location, cuisine type, and restaurant name.
 
