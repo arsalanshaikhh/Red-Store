@@ -4,7 +4,7 @@
 
 Redstore.com is an online shopping destination for children, men and women's luxury clothing, bags, shoes, and accessories, it is an individual website build my me from scratch.
 
-This is the project I have done personally apart from Masai School in the duration of 1 day. I have cloned the front end of the website.
+This is the project I have done personally apart from Masai School in the duration of 1 day. I have cloned the front end of the website. This website is responsive.
 
 
 
@@ -21,7 +21,7 @@ This is the project I have done personally apart from Masai School in the durati
 ## Features:
 
 E-commerce website where you can order the luxury clothing for children, men and women's, bags, shoes, and accessories.
-i have made the front end of the website only.
+i have made the front end of the website only.This website is responsive.
 
 <h1>Snapshots of our project</h1>
 
